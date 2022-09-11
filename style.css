@@ -1,0 +1,17 @@
+.hidden{
+    display : none;
+}
+
+.clock_style{
+    font-size:1050% ;
+    text-align: center;
+}
+
+.intro_style{
+    font-size: 150px ;
+    text-align: center;
+}
+
+.small_button{
+    padding: 3px;;
+}
